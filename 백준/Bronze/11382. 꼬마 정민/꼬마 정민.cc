@@ -1,0 +1,14 @@
+#include <iostream>
+
+int main()
+{
+    long A, B, C;
+
+    std::cin >> A;
+    std::cin >> B;
+    std::cin >> C;
+
+    std::cout << A+B+C << std::endl;
+
+    return 0;
+}
